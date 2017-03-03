@@ -1,0 +1,5 @@
+In case you took another long break and forget what's going on.
+
+To start ghci, run 'stack ghci'. I can't remember why ghci can't be run directly from the command line not through stack anymore.
+
+The version installed is slightly newer than the one in the book. It's a good idea to get used to this one, kind of like Python 3 vs Python 2.
