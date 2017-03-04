@@ -29,3 +29,34 @@
   c. I think this is okay.
 
   d. This is wrong. You could do `["hello"] ++ [" world"]` to get a list `["hello", " world"]` with the two strings or else do `"hello" ++ " world"` to get `"hello world"`.
+
+  e. I think the parameters are backwards. Should be `"hello" !! 4`
+
+  f. I think this is okay.
+
+  g. I think this should be `take 4 "lovely"`
+
+  h. I think this is okay.
+
+2. Matching to output
+
+  a. [6, 12, 18]
+
+  b. "rainbow"
+
+  c. 10
+
+  d. "Jules"
+
+  e. [2, 3, 5, 6, 8, 9]
+
+# Building functions
+
+a) `"Curry is awesome!"`
+
+b) `"Curry is awesome!" !! 4`
+
+c) `drop 9 "Curry is awesome!"`
+
+
+
