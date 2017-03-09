@@ -52,11 +52,30 @@
 
 # Building functions
 
+1. Solve with expressions in ghci
+
 a) `"Curry is awesome!"`
 
 b) `"Curry is awesome!" !! 4`
 
 c) `drop 9 "Curry is awesome!"`
 
+2. Write source files for the above (see other files in this dir)
+
+3. ```haskell
+thirdLetter :: String -> Char
+thirdLetter x = x !! 2
+```
+
+4. ```haskell
+letterIndex :: Int -> Char
+letterIndex x = "Curry is awesome!" !! x
+```
+
+5. see `yoda.hs`
+
+6. see `yoda.hs`
 
 
+
+  
