@@ -74,3 +74,15 @@ f x y = ((snd x, snd y), (fst x, fst y)
 
 1. I think the function needs to be lowercase `F` -> `f` and the `'x'` needs to be backticks instead of single quotes.
 
+2. Not sure what the rest of this section is asking
+
+## Match function to its type
+
+1. `show a => a -> String`
+
+2. `Eq a => a -> a -> Bool`
+
+3. `(a, b) -> a`
+
+4. `(+) :: Num a => a -> a -> a`
+
